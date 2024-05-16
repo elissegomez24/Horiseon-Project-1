@@ -31,3 +31,6 @@ The project is organized as follows:
 ## License
 
 This project is licensed under the MIT License. 
+
+> [!NOTE]  
+> Recourses used for creating code. Referred back to class work for file format such as reviewing class recording, as well as referred back to prework Module 3, Lesson 5. Worked with peers on assignment and compared challenge template to assist with creating readme file. 
