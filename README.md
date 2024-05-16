@@ -1,6 +1,3 @@
-# Horiseon-Project-1
-A digital marketing agency website. 
-
 # Horiseon Homepage
 
 Welcome to the Horiseon Homepage! A digital marketing agency. 
